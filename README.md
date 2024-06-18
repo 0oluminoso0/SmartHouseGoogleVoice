@@ -1,4 +1,4 @@
-# SmartHouse
+# SmartHouse (prototype)
 
 A Smart House is a system that utilizes IoT (Internet of Things) technology to control electronic devices in your home.
 such as lights, TVs, and electronic doors, using the ESP32 microcontroller as its core.
